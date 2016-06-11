@@ -1,0 +1,1 @@
+# solr_in_action
